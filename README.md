@@ -3,7 +3,7 @@
 <br/>
 
 <sub align="center">
-  I do experiments & research in science for fun as a hobby. I also share some of my knowledge & opinions on cyber security.
+  I do experiments & research in science for fun as a hobby. I also share some of my knowledge & opinions on cyber security. Sometimes I even work on open source projects as well as provide constructive inputs pertaning to the security aspect of things from a general perspective.
 </sub>
 <br />
 

@@ -20,12 +20,7 @@
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lancilloties&show_icons=true" alt="Olivier Caron's GitHub stats" />
 </p>
-
-<br />
-<br />
-
 <h3 align="center">Top Languages</h3>
-
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lancilloties&layout=compact" alt="Olivier Caron's Top Languages" />
 </p>

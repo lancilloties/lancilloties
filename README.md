@@ -1,5 +1,5 @@
 <h2 align="center">Lancilloties</h2>
-<h6 align="center">A scientist at heart</h6>
+<h6 align="center">A scientist at heart.</h6>
 <br/>
 
 <sub align="center">
